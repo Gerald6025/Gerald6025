@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-I’m a full stack developer focused on building reliable, scalable, and user-friendly web applications. I enjoy working across the entire development process — from designing interfaces to developing backend logic and managing databases.
+I’m a full stack developer focused on building reliable, scalable, and user-friendly web applications. I enjoy working across the entire development process from designing interfaces to developing backend logic and managing databases.
 
 ---
 
