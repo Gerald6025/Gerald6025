@@ -15,7 +15,7 @@ I’m a full stack developer focused on building reliable, scalable, and user-fr
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**  
 - HTML, CSS, JavaScript  
@@ -36,14 +36,14 @@ I’m a full stack developer focused on building reliable, scalable, and user-fr
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 - Improving full stack architecture skills  
 - Building real-world projects  
 - Learning best practices for performance, security, and scalability  
 
 ---
 
-## 📈 GitHub Goals
+##  GitHub Goals
 - Maintain clean, well-documented repositories  
 - Work on meaningful projects that solve real problems  
 - Collaborate and grow as a developer  
