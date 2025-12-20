@@ -50,7 +50,7 @@ I’m a full stack developer focused on building reliable, scalable, and user-fr
 
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 - GitHub: [@geraldchibanda](https://github.com/geraldchibanda)
   
 
