@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gerald Chibanda
+#  Hi, I'm Gerald Chibanda
 
 ## Full Stack Developer
 
