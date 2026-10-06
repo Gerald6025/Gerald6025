@@ -1,7 +1,7 @@
 #  Hi, I'm Gerald Chibanda
 
 ## Full Stack Developer
-
+[![committers.top badge](https://user-badge.committers.top/zimbabwe/gerald6025.svg)](https://user-badge.committers.top/zimbabwe/gerald6025)
 I’m a full stack developer focused on building reliable, scalable, and user-friendly web applications. I enjoy working across the entire development process from designing interfaces to developing backend logic and managing databases.
 
 ---
